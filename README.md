@@ -67,7 +67,7 @@
       <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /><br>Photoshop
     </td>
     <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/openai" /><br>OpenAI
+      <img height="32" width="32" src="https://cdn.simpleicons.org/openai" /><br>ChatGPT
     </td>
   </tr>
 </table>
