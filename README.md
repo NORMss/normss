@@ -1,5 +1,12 @@
 <h2 align="center">Hi there! 👋 I'm Sergey</h2>
-<h3 align="center">Android/KMP Developer</h3>
+<h3 align="center">
+  Android <img src="https://cdn.simpleicons.org/android" height="24" width="24" /> / KMP <img src="https://cdn.simpleicons.org/kotlin" height="18" width="18" />
+  Developer
+</h3>
+
+<p align="center">
+  I am passionate about new technologies in IT and mobile development.
+</p>
 
 <h3>About Me</h3>
 <ul>
@@ -38,6 +45,33 @@
   </a>
 </p>
 
+<h3>Additional Skills</h3>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/linux" /><br>Linux
+    </td>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/git" /><br>Git
+    </td>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/davinciresolve" /><br>DaVinci
+    </td>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/figma" /><br>Figma
+    </td>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /><br>Photoshop
+    </td>
+    <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/openai" /><br>OpenAI
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Contact Me</h3>
 <p align="center">
   <a href="https://normno.t.me/">
@@ -45,8 +79,5 @@
   </a>
   <a href="https://discord.com/users/280213393837785090/">
     <img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
-  </a>
-  <a href="mailto:serega.b301@gmail.com">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />
   </a>
 </p>
