@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  I am passionate about new technologies in IT and mobile development.
+  I am passionate about new technologies in IT and mobile development
 </p>
 
 <h3>About Me</h3>
