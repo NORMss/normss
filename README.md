@@ -37,10 +37,10 @@
 
 <h3>GitHub Stats</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=normss&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=transparent" alt="Sergey's GitHub stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normss&layout=compact&theme=transparent&hide_border=true" />
   </a>
 </p>
