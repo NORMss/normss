@@ -10,7 +10,6 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>🔍 Actively seeking new job opportunities</li>
   <li>📚 Passionate about learning something new every day</li>
   <li>🌏 Aspiring to teach and mentor future mobile developers, and to host tech conferences</li>
   <li>🔒 Launching and maintaining a VPN server for a large number of friends</li>
