@@ -30,16 +30,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NORMss/normss/main/github-contribution-grid-snake.svg">
 </picture>
 
-<h3>GitHub Stats</h3>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NORMss&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=transparent" alt="Sergey's GitHub stats" />
-  </a>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORMss&layout=compact&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
 <h3>Additional Skills</h3>
 <table align="center" border="0">
   <tr>
