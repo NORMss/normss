@@ -12,7 +12,6 @@
 <ul>
   <li>📚 Passionate about learning something new every day</li>
   <li>🌏 Aspiring to teach and mentor future mobile developers, and to host tech conferences</li>
-  <li>🔒 Launching and maintaining a VPN server for a large number of friends</li>
   <li>🏃 I like to run</li>
   <li>🎞️ Interested in editing and design</li>
 </ul>
@@ -34,6 +33,9 @@
 <table align="center" border="0">
   <tr>
     <td align="center">
+      <img height="32" width="32" src="https://cdn.simpleicons.org/android" /><br>AOSP Dev
+    </td>
+    <td align="center">
       <img height="32" width="32" src="https://cdn.simpleicons.org/linux" /><br>Linux
     </td>
     <td align="center">
@@ -49,10 +51,7 @@
       <img height="32" width="32" src="https://cdn.simpleicons.org/figma" /><br>Figma
     </td>
     <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /><br>Photoshop
-    </td>
-    <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/openai" /><br>ChatGPT
+      <img height="32" width="32" src="https://cdn.simpleicons.org/claudecode" /><br>ClaudeCode
     </td>
   </tr>
 </table>
